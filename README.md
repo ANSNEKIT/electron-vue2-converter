@@ -34,3 +34,7 @@ npm run electron:build-win
 ```
 npm run electron:build-linux
 ```
+
+### После сборки в папке проекта появится папка desktop-build. Внутри будут находиться файлы в зависимости от выбранной ОС
+- electron_converter_0.1.0_amd64.deb
+- *.exe
