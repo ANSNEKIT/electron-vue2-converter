@@ -1,5 +1,7 @@
 # electron-converter
 
+Конвертер единиц длины. Проект создан на Vue 2 + bootstrap-vue + electron + electron-build 
+
 ## Установка проекта
 NPM v8.19.4
 
@@ -38,3 +40,5 @@ npm run electron:build-linux
 ### После сборки в папке проекта появится папка desktop-build. Внутри будут находиться файлы в зависимости от выбранной ОС
 - electron_converter_0.1.0_amd64.deb
 - *.exe
+
+![Скриншот приложения](/src/images/image.png)

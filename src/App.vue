@@ -1,7 +1,7 @@
 <template>
     <div id="app">
         <h2 class="text-muted subtitle">
-            Конвертер единиц длинны
+            Конвертер единиц длины
         </h2>
         <div class="convert-wrapper">
             <div class="convert-form">
